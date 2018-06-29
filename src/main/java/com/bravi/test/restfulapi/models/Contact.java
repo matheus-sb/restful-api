@@ -42,8 +42,8 @@ public class Contact {
 		return contact;
 	}
 
-	public void setContact(String value) {
-		this.contact = value;
+	public void setContact(String contact) {
+		this.contact = contact;
 	}
 
 	public ContactType getType() {
